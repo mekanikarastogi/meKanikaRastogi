@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Insurance**
 
-- 🤝 I’m looking for help with **Billing**
+- 🤝 I’m looking for help with **Billing/policies/e-filing**
 
 - 📫 How to reach me **mekanikarastogi@gmail.com**
 
